@@ -15,7 +15,8 @@ This project represents an educational opportunity aimed to provide beginners tr
 ### R Language and Syntax
   1. Introduction To The R-Language
   2. R Language Basics
-  3. Useful R Functions 
+  3. File Paths and The Working Directory
+  4. Useful R Functions 
 
 ### Data in R
   1. How Data Is Handled In R
@@ -52,4 +53,12 @@ This project represents an educational opportunity aimed to provide beginners tr
   8.  Excercises
     + Files Go Here
     + Answers Go Here
+  9.  Graphing Spatial Data
+  10.  Excercises
+    + Files Go Here
+    + Answers Go Here
 
+### Odds and Ends
+  1.  rMarkdown and Notebooks
+  2.  File Manipulations
+  3.  Functions In R
