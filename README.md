@@ -26,10 +26,10 @@ This project represents an educational opportunity aimed to provide beginners tr
   5. Base-R and The TidyVerse
   
 ### Slicing and Dicing Data in Base R
-  1.  Subsetting Data
-  2.  Excercises
-    + Files Go Here
-    + Answers Go Here
+  1. Subsetting Data
+  2. Excercises
+      + Files Go Here
+      + Answers Go Here
     
 ### Data Wrangling in the TidyVerse
   1. Introduction To The TidyVerse
