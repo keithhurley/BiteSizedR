@@ -30,7 +30,6 @@ This project represents an educational opportunity aimed to provide beginners tr
   2. Excercises
       + Files Go Here
       + Answers Go Here
-    
 ### Data Wrangling in the TidyVerse
   1. Introduction To The TidyVerse
   2. Slicing and Dicing Data in the TidyVerse
@@ -38,25 +37,25 @@ This project represents an educational opportunity aimed to provide beginners tr
   4. Joining Data
   5. Aggregating Data
   6. Advanced Data Manipulations
-  7.  Excercises
-    + Files Go Here
-    + Answers Go Here
+  7. Excercises
+      + Files Go Here
+      + Answers Go Here
 
 ### Graphing Using GGPLOT
-  1.  Introduction to ggplot
-  2.  Geoms - converting your data to visuals
-  3.  Titles and labels
-  4.  Scales (axis, fills, colors, etc)
-  5.  Using Pre-Built Themes
-  6.  Altering Themes
-  7.  Facets
-  8.  Excercises
-    + Files Go Here
-    + Answers Go Here
-  9.  Graphing Spatial Data
-  10.  Excercises
-    + Files Go Here
-    + Answers Go Here
+  1. Introduction to ggplot
+  2. Geoms - converting your data to visuals
+  3. Titles and labels
+  4. Scales (axis, fills, colors, etc)
+  5. Using Pre-Built Themes
+  6. Altering Themes
+  7. Facets
+  8. Excercises
+      + Files Go Here
+      + Answers Go Here
+  9. Graphing Spatial Data
+  10. Excercises
+        + Files Go Here
+        + Answers Go Here
 
 ### Odds and Ends
   1.  rMarkdown and Notebooks
