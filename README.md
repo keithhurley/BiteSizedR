@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Welcome to Bite-Sized R
 
-You can use the [editor on GitHub](https://github.com/keithhurley/BiteSizedR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project represents an educational opportunity aimed to provide beginners training into R.  R is a free software environment for statistical computing and graphics.  This set of videos, tutorials, and exercises is a combined effort present by the Organization Of Fish and Wildlife Information Managers (OFWIM) and Keith Hurley.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Curriculum
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+V1 - Installing R and R-Studio
+Tour Of R-Studio
+Getting Help
+The R Package Ecosystem
+Introduction To The R-Language
+R Language Basics
+Useful R Functions
+How Data Is Handled In R
+Base-R and The TidyVerse
+Slicing and Dicing Data in Base R
+Introduction To The TidyVerse
+Slicing and Dicing Data in the TidyVerse
+Data Shaping
+Joining Data
+Aggregating Data
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/keithhurley/BiteSizedR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
