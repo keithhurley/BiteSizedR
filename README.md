@@ -6,7 +6,7 @@ This project represents an educational opportunity aimed to provide beginners tr
 ## Curriculum
 
 ### Introduction
-  1. V1 - Installing R and R-Studio
+  1. Installing R and R-Studio
   2. Tour Of R-Studio
   3. Getting Help
   4. The R Package Ecosystem
