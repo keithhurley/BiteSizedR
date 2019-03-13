@@ -5,19 +5,50 @@ This project represents an educational opportunity aimed to provide beginners tr
 
 ## Curriculum
 
-V1 - Installing R and R-Studio
-Tour Of R-Studio
-Getting Help
-The R Package Ecosystem
-Introduction To The R-Language
-R Language Basics
-Useful R Functions
-How Data Is Handled In R
-Base-R and The TidyVerse
-Slicing and Dicing Data in Base R
-Introduction To The TidyVerse
-Slicing and Dicing Data in the TidyVerse
-Data Shaping
-Joining Data
-Aggregating Data
+### Introduction
+  1. V1 - Installing R and R-Studio
+  2. Tour Of R-Studio
+  3. Getting Help
+  4. The R Package Ecosystem
+  5. R Data Types
+  
+### R Language and Syntax
+  1. Introduction To The R-Language
+  2. R Language Basics
+  3. Useful R Functions 
 
+### Data in R
+  1. How Data Is Handled In R
+  2. Importing and Exporting Data In R
+  3. R Data Types
+  4. Converting Between Data Types
+  5. Base-R and The TidyVerse
+  
+### Slicing and Dicing Data in Base R
+  1.  Subsetting Data
+  2.  Excercises
+    + Files Go Here
+    + Answers Go Here
+    
+### Data Wrangling in the TidyVerse
+  1. Introduction To The TidyVerse
+  2. Slicing and Dicing Data in the TidyVerse
+  3. Data Shaping
+  4. Joining Data
+  5. Aggregating Data
+  6. Advanced Data Manipulations
+  7.  Excercises
+    + Files Go Here
+    + Answers Go Here
+
+### Graphing Using GGPLOT
+  1.  Introduction to ggplot
+  2.  Geoms - converting your data to visuals
+  3.  Titles and labels
+  4.  Scales (axis, fills, colors, etc)
+  5.  Using Pre-Built Themes
+  6.  Altering Themes
+  7.  Facets
+  8.  Excercises
+    + Files Go Here
+    + Answers Go Here
