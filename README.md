@@ -23,7 +23,7 @@ This project represents an educational opportunity aimed to provide beginners tr
 | :--- | --- | --- | --- |
 | How Data Is Handled In R    | Video    |     |     |
 | Importing and Exporting Data In R    | Video    |     |     |
-| R Data Types    | Video    |     |     |
+| R Data Types    | [Video](https://youtu.be/SLAy5gpm8gI)    | [Handout](/Handouts/DataTypes.pdf)    |     |
 | Factors |     |     |     |
 | R Data Structures    | Video    |     |     |
 | Base-R and The TidyVerse    | Video    |     |     |
