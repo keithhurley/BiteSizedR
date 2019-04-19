@@ -25,7 +25,7 @@ This project represents an educational opportunity aimed to provide beginners tr
 | Importing and Exporting Data In R    | Video    |     |     |
 | R Data Types    | [Video](https://youtu.be/SLAy5gpm8gI)    | [Handout](/Handouts/DataTypes.pdf)    |     |
 | Factors |     |     |     |
-| R Data Structures    | Video    |     |     |
+| R Data Structures    | [Video](https://youtu.be/swaHtQfKndg)    | [Handout](/Handouts/DataStructures.pdf)    |     |
 | Base-R and The TidyVerse    | Video    |     |     |
   
   
