@@ -9,6 +9,7 @@ This project represents an educational opportunity aimed to provide beginners tr
 
 | Snacks | | |
 | :------------------------- | ----- | -------- |
+| Introduction to Bite-Sized R | [Video](https://www.youtube.com/watch?v=hZs3T5TNGIU) | Handout |
 | Installing R and R-Studio | Video | Handout |
 | Tour Of R-Studio          | Video | Handout |
 | Getting Help              | Video | Handout |
