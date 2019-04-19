@@ -9,7 +9,7 @@ This project represents an educational opportunity aimed to provide beginners tr
 | :------------------------- | ----- | -------- | --- |
 | Introduction to Bite-Sized R | [Video](https://www.youtube.com/watch?v=hZs3T5TNGIU) |  | |
 | Installing R and R-Studio | Video | [Handout](/Handouts/Install.pdf) | |
-| Tour Of R-Studio          | Video |  | |
+| Tour Of R-Studio          | [Video](https://studio.youtube.com/video/8cr8xgWUx1o) |  | |
 | Getting Help              | Video | Handout ||
 | The R Package Ecosystem   | [Video](https://studio.youtube.com/video/YlAR7NgBfVA) | [Handout](/Handouts/Packages.pdf) | Exercises |
 
