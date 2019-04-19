@@ -1,64 +1,71 @@
 # Welcome to Bite-Sized R
 
-This project represents an educational opportunity aimed to provide beginners training into R.  R is a free software environment for statistical computing and graphics.  This set of videos, tutorials, and exercises is a combined effort present by the Organization Of Fish and Wildlife Information Managers (OFWIM) and Keith Hurley.
+This project represents an educational opportunity aimed to provide beginners training into R, a free software environment for statistical computing and graphics.  This set of videos, tutorials, and exercises is a combined effort presented by the Organization Of Fish and Wildlife Information Managers (OFWIM) and Keith Hurley.
 
+Each *video* (called a snack) in the series is listed below.  *Handouts* are pdf files available for download that cover the same material presented in the snack.  *Exercises* are challenages used to put the lessons into practice while the *Answers* provided one way of completing the exercises.
 
-## Curriculum
+The best learning always happens by doing, so most of the snacks are meant to be viewed while working along in R-studio.  The snacks do move quickly so you may find it helpful to pause & continue as you work your way through the snack.  Alternatively, you may wish to view the snack, and then work your way through the material on your own computer using the handouts provided.
 
 | Introduction | | | |
 | :------------------------- | ----- | -------- | --- |
 | Introduction to Bite-Sized R | [Video](https://www.youtube.com/watch?v=hZs3T5TNGIU) |  | |
-| Installing R and R-Studio | Video | [Handout](/Handouts/Install.pdf) | |
-| Tour Of R-Studio          | Video |  | |
+| Installing R and R-Studio | [Video](https://youtu.be/icjPO6JqYtM) | [Handout](/Handouts/Install.pdf) | |
+| Tour Of R-Studio          | [Video](https://studio.youtube.com/video/8cr8xgWUx1o) |  | |
 | Getting Help              | Video | Handout ||
 | The R Package Ecosystem   | [Video](https://studio.youtube.com/video/YlAR7NgBfVA) | [Handout](/Handouts/Packages.pdf) | Exercises |
 
-### R Language and Syntax
-  1. Introduction To The R-Language
-  2. R Language Basics
-  3. File Paths and The Working Directory
-  4. Useful R Functions 
 
-### Data in R
-  1. How Data Is Handled In R
-  2. Importing and Exporting Data In R
-  3. R Data Types
-  4. Converting Between Data Types
-  5. Base-R and The TidyVerse
+| R Language and Syntax  |   |   |   |
+| :--- | --- | --- | --- |
+| Introduction To The R-Language    | Video    | Handout    |     |
+| R Language Basics    | Video    | Handout    |     |
+| File Paths and The Working Directory    | Video    |     |     |
+| Useful R Functions    | Video    | Handout    |     |
+
+
+| Data in R  |   |   |   |
+| :--- | --- | --- | --- |
+| How Data Is Handled In R    | Video    |     |     |
+| Importing and Exporting Data In R    | Video    |     |     |
+| R Data Types    | [Video](https://youtu.be/SLAy5gpm8gI)    | [Handout](/Handouts/DataTypes.pdf)    |     |
+| Factors |     |     |     |
+| R Data Structures    | [Video](https://youtu.be/swaHtQfKndg)    | [Handout](/Handouts/DataStructures.pdf)    |     |
+| Base-R and The TidyVerse    | Video    |     |     |
   
-### Slicing and Dicing Data in Base R
-  1. Subsetting Data
-  2. Excercises
-      + Files Go Here
-      + Answers Go Here
-### Data Wrangling in the TidyVerse
-  1. Introduction To The TidyVerse
-  2. Slicing and Dicing Data in the TidyVerse
-  3. Data Shaping
-  4. Joining Data
-  5. Aggregating Data
-  6. Advanced Data Manipulations
-  7. Excercises
-      + Files Go Here
-      + Answers Go Here
+  
+| Slicing and Dicing Data in Base R  |   |   |   |
+| :--- | --- | --- | --- |
+| Subsetting Data    | Video    |     |     |
+| Excercises    | Video    |     |     |
+  
+  
+| Data Wrangling in the TidyVerse  |   |   |   |
+| :--- | --- | --- | --- |
+| Introduction To The TidyVerse    |     |     |     |
+| Slicing and Dicing Data in the TidyVerse    |     |     |     |
+| Data Shaping    |     |     |     |
+| Joining Data    |     |     |     |
+| Aggregating Data    |     |     |     |
+| Advanced Data Manipulations    |     |     |     |
+| Excercises    |     |     |     |
 
-### Graphing Using GGPLOT
-  1. Introduction to ggplot
-  2. Geoms - converting your data to visuals
-  3. Titles and labels
-  4. Scales (axis, fills, colors, etc)
-  5. Using Pre-Built Themes
-  6. Altering Themes
-  7. Facets
-  8. Excercises
-      + Files Go Here
-      + Answers Go Here
-  9. Graphing Spatial Data
-  10. Excercises
-        + Files Go Here
-        + Answers Go Here
-
-### Odds and Ends
-  1.  rMarkdown and Notebooks
-  2.  File Manipulations
-  3.  Functions In R
+  
+| Graphing Using GGPLOT  |   |   |   |
+| :--- | --- | --- | --- |
+| Introduction to ggplot    |     |     |     |
+| Geoms - converting your data to visuals    |     |     |     |
+| Titles and labels    |     |     |     |
+| Scales (axis, fills, colors, etc)     |     |     |     |
+| Using Pre-Built Themes    |     |     |     |
+| Altering Themes    |     |     |     |
+| Facets    |     |     |     |
+| Excercises    |     |     |     |
+| Graphing Spatial Data    |     |     |     |
+| Excercises    |     |     |     |
+  
+| Odds and Ends   |   |   |   |
+| :--- | --- | --- | --- |
+| rMarkdown and Notebooks    |     |     |     |
+| File Manipulations    |     |     |     |
+| Functions In R    |     |     |     |
+ 
