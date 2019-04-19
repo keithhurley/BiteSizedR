@@ -1,6 +1,6 @@
 # Welcome to Bite-Sized R
 
-This project represents an educational opportunity aimed to provide beginners training into R.  R is a free software environment for statistical computing and graphics.  This set of videos, tutorials, and exercises is a combined effort present by the Organization Of Fish and Wildlife Information Managers (OFWIM) and Keith Hurley.
+This project represents an educational opportunity aimed to provide beginners training into R, a free software environment for statistical computing and graphics.  This set of videos, tutorials, and exercises is a combined effort presented by the Organization Of Fish and Wildlife Information Managers (OFWIM) and Keith Hurley.
 
 | Introduction | | | |
 | :------------------------- | ----- | -------- | --- |
