@@ -2,10 +2,7 @@
 
 This project represents an educational opportunity aimed to provide beginners training into R.  R is a free software environment for statistical computing and graphics.  This set of videos, tutorials, and exercises is a combined effort present by the Organization Of Fish and Wildlife Information Managers (OFWIM) and Keith Hurley.
 
-
-## Curriculum
-
-| ## Introduction | | | |
+| Introduction | | | |
 | :------------------------- | ----- | -------- | --- |
 | Introduction to Bite-Sized R | [Video](https://www.youtube.com/watch?v=hZs3T5TNGIU) |  | |
 | Installing R and R-Studio | [Video](https://youtu.be/icjPO6JqYtM) | [Handout](/Handouts/Install.pdf) | |
@@ -13,31 +10,22 @@ This project represents an educational opportunity aimed to provide beginners tr
 | Getting Help              | Video | Handout ||
 | The R Package Ecosystem   | [Video](https://studio.youtube.com/video/YlAR7NgBfVA) | [Handout](/Handouts/Packages.pdf) | Exercises |
 
-  | ## R Language and Syntax  |   |   |   |
-  | :--- | --- | --- | --- |
-  | Introduction To The R-Language    | Video    | Handout    |     |
-  | R Language Basics    | Video    | Handout    |     |
-  | File Paths and The Working Directory    | Handout    |     |     |
-  | Useful R Functions    | Video    | Handout    |     |
-  
-  
-### Data in R
-  1. How Data Is Handled In R
-  2. Importing and Exporting Data In R
-  3. R Data Types
-  4. Converting Between Data Types
-  5. Base-R and The TidyVerse
-  
-    
-  
-  | R Language and Syntax  |   |   |   |
-  | :--- | --- | --- | --- |
-  |     | Video    |     |     |
-  |     | Video    |     |     |
-  |     | Video    |     |     |
-  |     | Video    |     |     |
-  |     | Video    |     |     |
-  |     | Video    |     |     |
+
+| R Language and Syntax  |   |   |   |
+| :--- | --- | --- | --- |
+| Introduction To The R-Language    | Video    | Handout    |     |
+| R Language Basics    | Video    | Handout    |     |
+| File Paths and The Working Directory    | Handout    |     |     |
+| Useful R Functions    | Video    | Handout    |     |
+
+
+| Data in R  |   |   |   |
+| :--- | --- | --- | --- |
+| How Data Is Handled In R    | Video    |     |     |
+| Importing and Exporting Data In R    | Video    |     |     |
+| R Data Types    | Video    |     |     |
+| Converting Between Data Types    | Video    |     |     |
+| Base-R and The TidyVerse    | Video    |     |     |
   
 ### Slicing and Dicing Data in Base R
   1. Subsetting Data
