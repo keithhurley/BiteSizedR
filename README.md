@@ -1,11 +1,11 @@
-](https://youtu.be/icjPO6JqYtM)# Welcome to Bite-Sized R
+# Welcome to Bite-Sized R
 
 This project represents an educational opportunity aimed to provide beginners training into R.  R is a free software environment for statistical computing and graphics.  This set of videos, tutorials, and exercises is a combined effort present by the Organization Of Fish and Wildlife Information Managers (OFWIM) and Keith Hurley.
 
 
 ## Curriculum
 
-| Introduction | | | |
+| ## Introduction | | | |
 | :------------------------- | ----- | -------- | --- |
 | Introduction to Bite-Sized R | [Video](https://www.youtube.com/watch?v=hZs3T5TNGIU) |  | |
 | Installing R and R-Studio | [Video](https://youtu.be/icjPO6JqYtM) | [Handout](/Handouts/Install.pdf) | |
@@ -13,12 +13,14 @@ This project represents an educational opportunity aimed to provide beginners tr
 | Getting Help              | Video | Handout ||
 | The R Package Ecosystem   | [Video](https://studio.youtube.com/video/YlAR7NgBfVA) | [Handout](/Handouts/Packages.pdf) | Exercises |
 
-### R Language and Syntax
-  1. Introduction To The R-Language
-  2. R Language Basics
-  3. File Paths and The Working Directory
-  4. Useful R Functions 
-
+  | ## R Language and Syntax  |   |   |   |
+  | :--- | --- | --- | --- |
+  | Introduction To The R-Language    | Video    | Handout    |     |
+  | R Language Basics    | Video    | Handout    |     |
+  | File Paths and The Working Directory    | Handout    |     |     |
+  | Useful R Functions    | Video    | Handout    |     |
+  
+  
 ### Data in R
   1. How Data Is Handled In R
   2. Importing and Exporting Data In R
@@ -26,11 +28,35 @@ This project represents an educational opportunity aimed to provide beginners tr
   4. Converting Between Data Types
   5. Base-R and The TidyVerse
   
+    
+  
+  | R Language and Syntax  |   |   |   |
+  | :--- | --- | --- | --- |
+  |     | Video    |     |     |
+  |     | Video    |     |     |
+  |     | Video    |     |     |
+  |     | Video    |     |     |
+  |     | Video    |     |     |
+  |     | Video    |     |     |
+  
 ### Slicing and Dicing Data in Base R
   1. Subsetting Data
   2. Excercises
       + Files Go Here
       + Answers Go Here
+      
+        
+  
+  | R Language and Syntax  |   |   |   |
+  | :--- | --- | --- | --- |
+  |     | Video    |     |     |
+  |     | Video    |     |     |
+  |     | Video    |     |     |
+  |     | Video    |     |     |
+  |     | Video    |     |     |
+  |     | Video    |     |     |
+  
+  
 ### Data Wrangling in the TidyVerse
   1. Introduction To The TidyVerse
   2. Slicing and Dicing Data in the TidyVerse
@@ -42,6 +68,18 @@ This project represents an educational opportunity aimed to provide beginners tr
       + Files Go Here
       + Answers Go Here
 
+  
+  
+  | R Language and Syntax  |   |   |   |
+  | :--- | --- | --- | --- |
+  |     |     |     |     |
+  |     |     |     |     |
+  |     |     |     |     |
+  |     |     |     |     |
+  |     |     |     |     |
+  |     |     |     |     |
+  
+  
 ### Graphing Using GGPLOT
   1. Introduction to ggplot
   2. Geoms - converting your data to visuals
@@ -58,6 +96,19 @@ This project represents an educational opportunity aimed to provide beginners tr
         + Files Go Here
         + Answers Go Here
 
+  
+  
+  | R Language and Syntax  |   |   |   |
+  | :--- | --- | --- | --- |
+  |     |     |     |     |
+  |     |     |     |     |
+  |     |     |     |     |
+  |     |     |     |     |
+  |     |     |     |     |
+  |     |     |     |     |
+  
+  
+  
 ### Odds and Ends
   1.  rMarkdown and Notebooks
   2.  File Manipulations
