@@ -15,7 +15,7 @@ This project represents an educational opportunity aimed to provide beginners tr
 | :--- | --- | --- | --- |
 | Introduction To The R-Language    | Video    | Handout    |     |
 | R Language Basics    | Video    | Handout    |     |
-| File Paths and The Working Directory    | Handout    |     |     |
+| File Paths and The Working Directory    | Video    |     |     |
 | Useful R Functions    | Video    | Handout    |     |
 
 
@@ -27,46 +27,23 @@ This project represents an educational opportunity aimed to provide beginners tr
 | Converting Between Data Types    | Video    |     |     |
 | Base-R and The TidyVerse    | Video    |     |     |
   
-### Slicing and Dicing Data in Base R
-  1. Subsetting Data
-  2. Excercises
-      + Files Go Here
-      + Answers Go Here
-      
-        
   
-  | R Language and Syntax  |   |   |   |
-  | :--- | --- | --- | --- |
-  |     | Video    |     |     |
-  |     | Video    |     |     |
-  |     | Video    |     |     |
-  |     | Video    |     |     |
-  |     | Video    |     |     |
-  |     | Video    |     |     |
+| Slicing and Dicing Data in Base R  |   |   |   |
+| :--- | --- | --- | --- |
+| Subsetting Data    | Video    |     |     |
+| Excercises    | Video    |     |     |
   
   
-### Data Wrangling in the TidyVerse
-  1. Introduction To The TidyVerse
-  2. Slicing and Dicing Data in the TidyVerse
-  3. Data Shaping
-  4. Joining Data
-  5. Aggregating Data
-  6. Advanced Data Manipulations
-  7. Excercises
-      + Files Go Here
-      + Answers Go Here
+| Data Wrangling in the TidyVerse  |   |   |   |
+| :--- | --- | --- | --- |
+| Introduction To The TidyVerse    |     |     |     |
+| Slicing and Dicing Data in the TidyVerse    |     |     |     |
+| Data Shaping    |     |     |     |
+| Joining Data    |     |     |     |
+| Aggregating Data    |     |     |     |
+| Advanced Data Manipulations    |     |     |     |
+| Excercises    |     |     |     |
 
-  
-  
-  | R Language and Syntax  |   |   |   |
-  | :--- | --- | --- | --- |
-  |     |     |     |     |
-  |     |     |     |     |
-  |     |     |     |     |
-  |     |     |     |     |
-  |     |     |     |     |
-  |     |     |     |     |
-  
   
 ### Graphing Using GGPLOT
   1. Introduction to ggplot
