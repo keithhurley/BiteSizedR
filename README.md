@@ -9,11 +9,11 @@ This project represents an educational opportunity aimed to provide beginners tr
 
 | Snacks | | |
 | :------------------------- | ----- | -------- |
-| Introduction to Bite-Sized R | [Video](https://www.youtube.com/watch?v=hZs3T5TNGIU) | Handout |
+| Introduction to Bite-Sized R | [Video](https://www.youtube.com/watch?v=hZs3T5TNGIU) |  |
 | Installing R and R-Studio | Video | Handout |
-| Tour Of R-Studio          | Video | Handout |
+| Tour Of R-Studio          | Video |  |
 | Getting Help              | Video | Handout |
-| The R Package Ecosystem   | Video | Handout |
+| The R Package Ecosystem   | Video |  |
 
 ### R Language and Syntax
   1. Introduction To The R-Language
