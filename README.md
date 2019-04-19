@@ -1,4 +1,4 @@
-# Welcome to Bite-Sized R
+](https://youtu.be/icjPO6JqYtM)# Welcome to Bite-Sized R
 
 This project represents an educational opportunity aimed to provide beginners training into R.  R is a free software environment for statistical computing and graphics.  This set of videos, tutorials, and exercises is a combined effort present by the Organization Of Fish and Wildlife Information Managers (OFWIM) and Keith Hurley.
 
@@ -8,7 +8,7 @@ This project represents an educational opportunity aimed to provide beginners tr
 | Introduction | | | |
 | :------------------------- | ----- | -------- | --- |
 | Introduction to Bite-Sized R | [Video](https://www.youtube.com/watch?v=hZs3T5TNGIU) |  | |
-| Installing R and R-Studio | Video | [Handout](/Handouts/Install.pdf) | |
+| Installing R and R-Studio | [Video](https://youtu.be/icjPO6JqYtM) | [Handout](/Handouts/Install.pdf) | |
 | Tour Of R-Studio          | [Video](https://studio.youtube.com/video/8cr8xgWUx1o) |  | |
 | Getting Help              | Video | Handout ||
 | The R Package Ecosystem   | [Video](https://studio.youtube.com/video/YlAR7NgBfVA) | [Handout](/Handouts/Packages.pdf) | Exercises |
