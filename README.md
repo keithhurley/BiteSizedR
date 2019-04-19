@@ -11,7 +11,7 @@ This project represents an educational opportunity aimed to provide beginners tr
 | Installing R and R-Studio | Video | [Handout](/Handouts/Install.pdf) | |
 | Tour Of R-Studio          | Video |  | |
 | Getting Help              | Video | Handout ||
-| The R Package Ecosystem   | [Video](https://studio.youtube.com/video/YlAR7NgBfVA) | [Handout](Packages.pdf) | Exercises |
+| The R Package Ecosystem   | [Video](https://studio.youtube.com/video/YlAR7NgBfVA) | [Handout](/Handouts/Packages.pdf) | Exercises |
 
 ### R Language and Syntax
   1. Introduction To The R-Language
