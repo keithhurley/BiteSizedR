@@ -45,36 +45,22 @@ This project represents an educational opportunity aimed to provide beginners tr
 | Excercises    |     |     |     |
 
   
-### Graphing Using GGPLOT
-  1. Introduction to ggplot
-  2. Geoms - converting your data to visuals
-  3. Titles and labels
-  4. Scales (axis, fills, colors, etc)
-  5. Using Pre-Built Themes
-  6. Altering Themes
-  7. Facets
-  8. Excercises
-      + Files Go Here
-      + Answers Go Here
-  9. Graphing Spatial Data
-  10. Excercises
-        + Files Go Here
-        + Answers Go Here
-
+| Graphing Using GGPLOT  |   |   |   |
+| :--- | --- | --- | --- |
+| Introduction to ggplot    |     |     |     |
+| Geoms - converting your data to visuals    |     |     |     |
+| Titles and labels    |     |     |     |
+| Scales (axis, fills, colors, etc)     |     |     |     |
+| Using Pre-Built Themes    |     |     |     |
+| Altering Themes    |     |     |     |
+| Facets    |     |     |     |
+| Excercises    |     |     |     |
+| Graphing Spatial Data    |     |     |     |
+| Excercises    |     |     |     |
   
-  
-  | R Language and Syntax  |   |   |   |
-  | :--- | --- | --- | --- |
-  |     |     |     |     |
-  |     |     |     |     |
-  |     |     |     |     |
-  |     |     |     |     |
-  |     |     |     |     |
-  |     |     |     |     |
-  
-  
-  
-### Odds and Ends
-  1.  rMarkdown and Notebooks
-  2.  File Manipulations
-  3.  Functions In R
+| Odds and Ends   |   |   |   |
+| :--- | --- | --- | --- |
+| rMarkdown and Notebooks    |     |     |     |
+| File Manipulations    |     |     |     |
+| Functions In R    |     |     |     |
+ 
