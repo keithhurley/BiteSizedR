@@ -6,12 +6,14 @@ This project represents an educational opportunity aimed to provide beginners tr
 ## Curriculum
 
 ### Introduction
-  1. Installing R and R-Studio
-  2. Tour Of R-Studio
-  3. Getting Help
-  4. The R Package Ecosystem
-  5. R Data Types
-  
+
+| Snacks | | |
+| :------------------------- | ----- | -------- |
+| Installing R and R-Studio | Video | Handout |
+| Tour Of R-Studio          | Video | Handout |
+| Getting Help              | Video | Handout |
+| The R Package Ecosystem   | Video | Handout |
+
 ### R Language and Syntax
   1. Introduction To The R-Language
   2. R Language Basics
