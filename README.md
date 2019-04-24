@@ -1,6 +1,6 @@
  # Welcome to Bite-Sized R
 
-### [**Subscribe For Email Alerts When New Material Is Posted - Click Here**](https://mailchi.mp/c2a046283e81/bitesizer)
+[**Subscribe For Email Alerts When New Material Is Posted - Click Here**](https://mailchi.mp/c2a046283e81/bitesizer)
 
 This project represents an educational opportunity aimed to provide beginners training into R, a free software environment for statistical computing and graphics.  This set of videos, tutorials, and exercises is a combined effort presented by the Organization Of Fish and Wildlife Information Managers (OFWIM) and Keith Hurley.
 
