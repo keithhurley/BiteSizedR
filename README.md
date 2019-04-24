@@ -8,13 +8,13 @@ The best learning always happens by doing, so most of the snacks are meant to be
 
 The first group of snacks get you setup with the software and prepared to start working with R.  These snacks are of a show and tell variety and there's really no need to type along, but make sure you install the software as directed and try out the exercises in the Package snack - they'll help you get your computer prepped for what is to come.
 
-| Introduction | | | |
-| :------------------------- | ----- | -------- | --- |
-| Introduction to Bite-Sized R | [Video](https://www.youtube.com/watch?v=hZs3T5TNGIU) |  | |
-| Installing R and R-Studio | [Video](https://youtu.be/icjPO6JqYtM) | [Handout](/Handouts/Install.pdf) | |
-| Tour Of R-Studio          | [Video](https://studio.youtube.com/video/8cr8xgWUx1o) |  | |
-| Getting Help              | Video | [Handout](/Handouts/Help.pdf) ||
-| The R Package Ecosystem   | [Video](https://studio.youtube.com/video/YlAR7NgBfVA) | [Handout](/Handouts/Packages.pdf) | Exercises |
+| Introduction | | | | |
+| :------------------------- | ----- | -------- | --- | --- |
+| Introduction to Bite-Sized R | [Video](https://www.youtube.com/watch?v=hZs3T5TNGIU) |  | | |
+| Installing R and R-Studio | [Video](https://youtu.be/icjPO6JqYtM) | [Handout](/Handouts/Install.pdf) | | |
+| Tour Of R-Studio          | [Video](https://studio.youtube.com/video/8cr8xgWUx1o) |  | | |
+| Getting Help              | Video | [Handout](/Handouts/Help.pdf) || |
+| The R Package Ecosystem   | [Video](https://studio.youtube.com/video/YlAR7NgBfVA) | [Handout](/Handouts/Packages.pdf) | Exercises | Exercise Answers |
 
 Let's take a look at some of the basics of R syntax and code structure.  This group of snacks is aimed to give you a basic understanding of how the R language works and to help recognize some of the base functions and techniques that will appear through the bite-size R series.  Feel free to type along if you wish.
 
@@ -27,8 +27,8 @@ Let's take a look at some of the basics of R syntax and code structure.  This gr
 
 Now we're getting to the good stuff.  It's time to take a look at how data is stored and handled inside of R.  Some of these snacks will be of the show and tell variety while others will encourage you to work along with the video.  After watching a snack, please download and attmept the exercises if they are available to help put things into practice!  Please stick with it, these are important things to know - we're almost to the fun part.
 
-| Data in R  |   |   |   |
-| :--- | --- | --- | --- |
+| Data in R  |   |   |   | |
+| :--- | --- | --- | --- | --- |
 | How Data Is Handled In R    | Video    |     |     |    |
 | Importing and Exporting Data In R    | Video    |     |     |    |
 | R Data Types    | [Video](https://youtu.be/SLAy5gpm8gI)    | [Handout](/Handouts/DataTypes.pdf)    |     |    |
