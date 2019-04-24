@@ -16,7 +16,7 @@ The first group of snacks get you setup with the software and prepared to start 
 | Installing R and R-Studio | [Video](https://youtu.be/icjPO6JqYtM) | [Handout](/Handouts/Install.pdf) | | |
 | Tour Of R-Studio          | [Video](https://studio.youtube.com/video/8cr8xgWUx1o) |  | | |
 | Getting Help              | Video | [Handout](/Handouts/Help.pdf) || |
-| The R Package Ecosystem   | [Video](https://studio.youtube.com/video/YlAR7NgBfVA) | [Handout](/Handouts/Packages.pdf) | Exercises | Exercise Answers |
+| The R Package Ecosystem   | [Video](https://studio.youtube.com/video/YlAR7NgBfVA) | [Handout](/Handouts/Packages.pdf) | Exercises(/Handouts/Packages_exercises.pdf) | Exercise Answers (/Handouts/Packages_exercises_answers.pdf) |
 
 Let's take a look at some of the basics of R syntax and code structure.  This group of snacks is aimed to give you a basic understanding of how the R language works and to help recognize some of the base functions and techniques that will appear through the bite-size R series.  Feel free to type along if you wish.
 
