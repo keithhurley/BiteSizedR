@@ -1,4 +1,6 @@
-# Welcome to Bite-Sized R
+# Welcome To Bite-Size R
+
+### [**Subscribe For Email Alerts When New Material Is Posted - Click Here**](https://mailchi.mp/c2a046283e81/bitesizer)
 
 This project represents an educational opportunity aimed to provide beginners training into R, a free software environment for statistical computing and graphics.  This set of videos, tutorials, and exercises is a combined effort presented by the Organization Of Fish and Wildlife Information Managers (OFWIM) and Keith Hurley.
 
@@ -14,7 +16,7 @@ The first group of snacks get you setup with the software and prepared to start 
 | Installing R and R-Studio | [Video](https://youtu.be/icjPO6JqYtM) | [Handout](/Handouts/Install.pdf) | | |
 | Tour Of R-Studio          | [Video](https://studio.youtube.com/video/8cr8xgWUx1o) |  | | |
 | Getting Help              | Video | [Handout](/Handouts/Help.pdf) || |
-| The R Package Ecosystem   | [Video](https://studio.youtube.com/video/YlAR7NgBfVA) | [Handout](/Handouts/Packages.pdf) | Exercises | Exercise Answers |
+| The R Package Ecosystem   | [Video](https://studio.youtube.com/video/YlAR7NgBfVA) | [Handout](/Handouts/Packages.pdf) | [Exercises](/Handouts/Packages_exercises.pdf) | [Exercise Answers](/Handouts/Packages_exercises_answers.pdf) |
 
 Let's take a look at some of the basics of R syntax and code structure.  This group of snacks is aimed to give you a basic understanding of how the R language works and to help recognize some of the base functions and techniques that will appear through the bite-size R series.  Feel free to type along if you wish.
 
@@ -32,8 +34,8 @@ Now we're getting to the good stuff.  It's time to take a look at how data is st
 | How Data Is Handled In R    | Video    |     |     |    |
 | Importing and Exporting Data In R    | Video    |     |     |    |
 | R Data Types    | [Video](https://youtu.be/SLAy5gpm8gI)    | [Handout](/Handouts/DataTypes.pdf)    |     |    |
-| Factors | [Video](https://youtu.be/SLAy5gpm8gI)    | [Handout](/Handouts/Factors.pdf)    |     |    |
-| Forcats Package | [Video](https://youtu.be/SLAy5gpm8gI)    | [Handout](/Handouts/Forcats.pdf)    | Exercises  | Exercise Answers  |
+| Factors | [Video](https://www.youtube.com/watch?v=xY9b7nitDF4)    | [Handout](/Handouts/Factors.pdf)    |     |    |
+| Forcats Package | [Video](https://youtu.be/jXoQav5UwVU)    | [Handout](/Handouts/Forcats.pdf)    | Exercises  | Exercise Answers  |
 | R Data Structures    | [Video](https://youtu.be/swaHtQfKndg)    | [Handout](/Handouts/DataStructures.pdf)    |     |    |
 | Slicing and Dicing Data in Base R     | Video    | Handout    | Exercises  | Exercise Answers  |
 
