@@ -13,7 +13,7 @@ The first group of snacks get you setup with the software and prepared to start 
 | Introduction to Bite-Sized R | [Video](https://www.youtube.com/watch?v=hZs3T5TNGIU) |  | |
 | Installing R and R-Studio | [Video](https://youtu.be/icjPO6JqYtM) | [Handout](/Handouts/Install.pdf) | |
 | Tour Of R-Studio          | [Video](https://studio.youtube.com/video/8cr8xgWUx1o) |  | |
-| Getting Help              | Video | Handout ||
+| Getting Help              | Video | [Handout](/Handouts/Help.pdf) ||
 | The R Package Ecosystem   | [Video](https://studio.youtube.com/video/YlAR7NgBfVA) | [Handout](/Handouts/Packages.pdf) | Exercises |
 
 Let's take a look at some of the basics of R syntax and code structure.  This group of snacks is aimed to give you a basic understanding of how the R language works and to help recognize some of the base functions and techniques that will appear through the bite-size R series.  Feel free to type along if you wish.
@@ -33,7 +33,7 @@ Now we're getting to the good stuff.  It's time to take a look at how data is st
 | Importing and Exporting Data In R    | Video    |     |     |    |
 | R Data Types    | [Video](https://youtu.be/SLAy5gpm8gI)    | [Handout](/Handouts/DataTypes.pdf)    |     |    |
 | Factors | [Video](https://youtu.be/SLAy5gpm8gI)    | [Handout](/Handouts/Factors.pdf)    |     |    |
-| Forcats Package | [Video](https://youtu.be/SLAy5gpm8gI)    | [Handout](/Handouts/Factors.pdf)    | Exercises  | Exercise Answers  |
+| Forcats Package | [Video](https://youtu.be/SLAy5gpm8gI)    | [Handout](/Handouts/Forcats.pdf)    | Exercises  | Exercise Answers  |
 | R Data Structures    | [Video](https://youtu.be/swaHtQfKndg)    | [Handout](/Handouts/DataStructures.pdf)    |     |    |
 | Slicing and Dicing Data in Base R     | Video    | Handout    | Exercises  | Exercise Answers  |
 
