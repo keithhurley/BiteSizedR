@@ -34,8 +34,8 @@ Now we're getting to the good stuff.  It's time to take a look at how data is st
 | How Data Is Handled In R    | Video    |     |     |    |
 | Importing and Exporting Data In R    | Video    |     |     |    |
 | R Data Types    | [Video](https://youtu.be/SLAy5gpm8gI)    | [Handout](/Handouts/DataTypes.pdf)    |     |    |
-| Factors | [Video](https://youtu.be/SLAy5gpm8gI)    | [Handout](/Handouts/Factors.pdf)    |     |    |
-| Forcats Package | [Video](https://youtu.be/SLAy5gpm8gI)    | [Handout](/Handouts/Forcats.pdf)    | Exercises  | Exercise Answers  |
+| Factors | [Video](https://www.youtube.com/watch?v=xY9b7nitDF4)    | [Handout](/Handouts/Factors.pdf)    |     |    |
+| Forcats Package | [Video](https://youtu.be/jXoQav5UwVU)    | [Handout](/Handouts/Forcats.pdf)    | Exercises  | Exercise Answers  |
 | R Data Structures    | [Video](https://youtu.be/swaHtQfKndg)    | [Handout](/Handouts/DataStructures.pdf)    |     |    |
 | Slicing and Dicing Data in Base R     | Video    | Handout    | Exercises  | Exercise Answers  |
 
