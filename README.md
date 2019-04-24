@@ -1,5 +1,7 @@
 # Welcome to Bite-Sized R
 
+###**Subscribe For Email Alerts When New Material Is Posted - Click Here**
+
 This project represents an educational opportunity aimed to provide beginners training into R, a free software environment for statistical computing and graphics.  This set of videos, tutorials, and exercises is a combined effort presented by the Organization Of Fish and Wildlife Information Managers (OFWIM) and Keith Hurley.
 
 Each *video* (called a snack) in the series is listed below.  *Handouts* are pdf files available for download that cover the same material presented in the snack.  *Exercises* are challenages used to put the lessons into practice while the *Answers* provided one way of completing the exercises.
