@@ -1,4 +1,4 @@
-# Welcome to Bite-Sized R
+ # Welcome to Bite-Sized R
 
 ###**Subscribe For Email Alerts When New Material Is Posted - Click Here**
 
