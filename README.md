@@ -23,9 +23,11 @@ Let's take a look at some of the basics of R syntax and code structure.  This gr
 | R Language and Syntax  |   |   |   |
 | :--- | --- | --- | --- |
 | Introduction To The R-Language    | Video    | Handout    |     |
-| R Language Basics    | Video    | Handout    |     |
-| File Paths and The Working Directory    | Video    |     |     |
+| Objects In R    | Video    | Handout    |     |
+| R Operators | Video | Handout ||
 | Useful R Functions    | Video    | Handout    |     |
+| Using c() and paste()    | Video    | Handout |     |
+| File Paths and The Working Directory    | Video    | Handout  |     |
 
 Now we're getting to the good stuff.  It's time to take a look at how data is stored and handled inside of R.  Some of these snacks will be of the show and tell variety while others will encourage you to work along with the video.  After watching a snack, please download and attempt the exercises if they are available to help put things into practice!  Please stick with it, these are important things to know - and we're almost to the fun part.
 
